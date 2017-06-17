@@ -13,15 +13,15 @@
 # Maintainer      : sCRiPTz-TEAM
 # Maintainer URL  : http://iplists.firehol.org/
 # List source URL : 
-# Source File Date: Sat Jun 17 10:02:02 UTC 2017
+# Source File Date: Sat Jun 17 10:22:02 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 69939
+# Version         : 69940
 #
-# This File Date  : Sat Jun 17 10:08:55 UTC 2017
+# This File Date  : Sat Jun 17 10:26:14 UTC 2017
 # Update Frequency: 1 min 
 # Aggregation     : none
-# Entries         : 37610 subnets, 38458 unique IPs
+# Entries         : 37611 subnets, 38459 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -6928,7 +6928,6 @@
 79.123.128.128/31
 79.123.128.130
 79.123.128.136/31
-79.123.128.141
 79.123.128.144/31
 79.123.128.152/31
 79.123.128.161
@@ -7815,7 +7814,6 @@
 85.105.87.11
 85.105.177.187
 85.105.227.55
-85.105.253.51
 85.107.202.167
 85.109.64.254
 85.113.48.148
@@ -17570,6 +17568,7 @@
 177.105.181.72
 177.107.38.67
 177.107.48.130
+177.113.51.87
 177.113.240.86
 177.114.28.144
 177.114.108.245
@@ -36342,7 +36341,9 @@
 212.67.220.137
 212.72.128.14
 212.72.140.34
+212.75.133.53
 212.75.133.61
+212.75.133.64
 212.76.175.239
 212.83.40.239
 212.83.56.87
