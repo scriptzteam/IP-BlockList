@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=ntp&out=txt&submit=go
-# Source File Date: Sat Jun 17 19:04:50 UTC 2017
+# Source File Date: Sat Jun 17 22:30:29 UTC 2017
 #
 # Category        : attacks
-# Version         : 1833
+# Version         : 1834
 #
-# This File Date  : Sat Jun 17 19:04:50 UTC 2017
+# This File Date  : Sat Jun 17 22:30:29 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 255 unique IPs
+# Entries         : 250 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -67,11 +67,9 @@
 78.110.50.48
 78.110.50.51
 78.110.50.52
-78.110.50.53
 78.110.50.54
 78.110.50.55
 78.110.50.56
-78.110.50.57
 78.110.50.58
 78.110.50.60
 78.110.50.61
@@ -93,7 +91,6 @@
 78.110.50.86
 78.110.50.87
 78.110.50.88
-78.110.50.89
 78.110.50.90
 78.110.50.91
 78.110.50.92
@@ -166,7 +163,6 @@
 78.110.50.186
 78.110.50.188
 78.110.50.190
-78.110.50.191
 78.110.50.192
 78.110.50.194
 78.110.50.195
@@ -191,7 +187,6 @@
 78.110.50.224
 78.110.50.225
 78.110.50.227
-78.110.50.229
 78.110.50.231
 78.110.50.232
 78.110.50.233
@@ -201,7 +196,6 @@
 78.110.50.237
 78.110.50.238
 78.110.50.239
-78.110.50.241
 78.110.50.242
 78.110.50.243
 78.110.50.247
@@ -219,6 +213,7 @@
 129.250.206.86
 134.147.203.115
 158.85.81.120
+158.255.4.249
 163.172.35.62
 168.1.128.76
 179.108.49.244
