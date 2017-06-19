@@ -14,15 +14,15 @@
 # Maintainer      : PacketMail.net
 # Maintainer URL  : https://www.packetmail.net/
 # List source URL : https://www.packetmail.net/iprep_mail.txt
-# Source File Date: Mon Jun 19 01:10:13 UTC 2017
+# Source File Date: Mon Jun 19 05:10:13 UTC 2017
 #
 # Category        : reputation
-# Version         : 3555
+# Version         : 3556
 #
-# This File Date  : Mon Jun 19 01:12:53 UTC 2017
+# This File Date  : Mon Jun 19 05:12:48 UTC 2017
 # Update Frequency: 4 hours 
 # Aggregation     : none
-# Entries         : 78 unique IPs
+# Entries         : 86 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -40,14 +40,23 @@
 37.10.114.81
 37.49.224.79
 40.71.211.132
+41.231.120.118
 42.112.89.210
 76.164.223.113
 79.124.60.115
 79.124.60.119
 81.218.186.16
+85.204.49.22
+85.204.49.26
+85.204.49.27
 85.204.49.237
 85.204.49.238
 85.204.49.244
+85.204.49.246
+85.204.49.248
+85.204.49.250
+85.204.49.251
+85.204.50.9
 89.36.217.56
 95.154.237.60
 95.154.237.145
@@ -70,13 +79,11 @@
 107.173.27.181
 109.230.215.224
 111.254.48.28
-113.91.141.93
 116.101.100.56
 117.253.210.238
 119.5.141.223
 120.24.164.247
 121.17.18.149
-123.21.78.219
 123.21.182.74
 123.25.11.20
 124.206.107.125
@@ -95,6 +102,7 @@
 195.110.9.64
 195.154.53.245
 198.12.16.234
+198.12.80.195
 212.199.108.162
 216.126.227.141
 216.126.227.142
