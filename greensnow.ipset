@@ -15,15 +15,15 @@
 # Maintainer      : GreenSnow.co
 # Maintainer URL  : https://greensnow.co/
 # List source URL : http://blocklist.greensnow.co/greensnow.txt
-# Source File Date: Mon Jun 19 07:12:59 UTC 2017
+# Source File Date: Mon Jun 19 07:44:23 UTC 2017
 #
 # Category        : attacks
-# Version         : 20369
+# Version         : 20370
 #
-# This File Date  : Mon Jun 19 07:12:59 UTC 2017
+# This File Date  : Mon Jun 19 07:44:23 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 2510 unique IPs
+# Entries         : 2517 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -224,6 +224,7 @@
 45.116.79.141
 45.116.79.247
 45.120.184.7
+45.248.84.137
 46.4.58.130
 46.17.46.103
 46.21.151.82
@@ -640,6 +641,7 @@
 62.210.190.59
 62.210.205.141
 64.27.17.140
+64.37.231.145
 64.63.134.13
 64.68.115.87
 64.94.179.8
@@ -1029,6 +1031,7 @@
 101.251.246.146
 101.254.181.166
 101.254.183.231
+103.3.46.15
 103.6.196.80
 103.10.52.83
 103.18.4.138
@@ -1180,6 +1183,7 @@
 111.181.42.21
 111.181.42.96
 111.181.42.253
+111.181.71.162
 111.181.82.149
 111.197.212.52
 111.206.163.56
@@ -1379,7 +1383,9 @@
 119.62.122.2
 119.73.222.36
 119.102.131.26
+119.102.133.182
 119.130.207.47
+119.145.148.158
 119.146.33.86
 119.146.145.50
 119.160.199.228
@@ -1581,6 +1587,7 @@
 141.8.184.20
 141.138.169.204
 142.54.164.60
+142.54.171.34
 142.54.183.226
 144.76.8.66
 144.76.12.66
