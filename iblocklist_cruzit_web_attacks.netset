@@ -9,15 +9,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=czvaehmjpsnwwttrdoyl&fileformat=p2p&archiveformat=gz
-# Source File Date: Mon Jun 19 10:23:12 UTC 2017
+# Source File Date: Tue Jun 20 10:30:05 UTC 2017
 #
 # Category        : attacks
-# Version         : 435
+# Version         : 436
 #
-# This File Date  : Mon Jun 19 10:33:03 UTC 2017
+# This File Date  : Tue Jun 20 10:40:58 UTC 2017
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 6948 subnets, 7051 unique IPs
+# Entries         : 6952 subnets, 7056 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -3863,6 +3863,7 @@
 107.77.100.113
 107.77.104.45
 107.77.104.75
+107.77.104.80
 107.77.104.109
 107.77.105.107
 107.77.109.50
@@ -4558,6 +4559,7 @@
 157.55.39.164
 157.55.39.168
 157.55.39.174
+157.55.39.176
 157.55.39.180
 157.55.39.183
 157.55.39.185
@@ -5606,6 +5608,7 @@
 195.154.200.93
 195.154.209.76
 195.154.211.183
+195.154.211.217
 195.154.214.162
 195.154.240.184
 195.154.250.133
@@ -6117,7 +6120,7 @@
 207.46.13.62/31
 207.46.13.69
 207.46.13.71
-207.46.13.78
+207.46.13.78/31
 207.46.13.82
 207.46.13.84
 207.46.13.86/31
@@ -6760,6 +6763,7 @@
 216.238.247.140
 216.244.76.80
 216.244.85.106
+216.244.86.114
 216.244.87.179
 216.244.93.52
 216.245.206.226
