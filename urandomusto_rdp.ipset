@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=rdp&out=txt&submit=go
-# Source File Date: Thu Jun 22 23:03:33 UTC 2017
+# Source File Date: Fri Jun 23 00:04:48 UTC 2017
 #
 # Category        : attacks
-# Version         : 3006
+# Version         : 3007
 #
-# This File Date  : Thu Jun 22 23:03:33 UTC 2017
+# This File Date  : Fri Jun 23 00:04:48 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 165 unique IPs
+# Entries         : 166 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -50,10 +50,10 @@
 41.216.170.68
 45.76.132.127
 46.175.188.12
-46.186.119.184
 47.92.84.167
 50.226.27.14
-52.7.28.139
+52.208.10.232
+54.193.69.63
 58.221.58.234
 59.47.225.133
 61.160.6.19
@@ -61,6 +61,7 @@
 62.232.119.154
 67.78.244.194
 69.10.58.243
+69.15.194.34
 71.40.206.6
 74.82.47.20
 77.72.82.16
@@ -72,7 +73,6 @@
 79.6.33.252
 79.133.48.182
 79.148.251.131
-79.153.206.184
 80.82.77.127
 80.242.218.6
 81.45.82.79
@@ -94,6 +94,7 @@
 93.115.29.246
 93.174.93.102
 93.174.93.207
+93.174.94.95
 94.102.54.161
 96.39.84.230
 97.68.162.59
@@ -102,7 +103,6 @@
 103.199.103.63
 103.249.28.104
 104.168.142.186
-109.72.28.62
 113.160.111.35
 114.88.245.183
 114.91.81.92
@@ -181,6 +181,7 @@
 212.86.114.152
 212.92.114.218
 212.129.10.158
+212.166.58.122
 212.224.121.136
 213.78.118.243
 216.218.206.68
