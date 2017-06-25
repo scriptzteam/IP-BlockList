@@ -10,15 +10,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/imap.txt
-# Source File Date: Sun Jun 25 01:20:29 UTC 2017
+# Source File Date: Sun Jun 25 01:28:27 UTC 2017
 #
 # Category        : attacks
-# Version         : 46519
+# Version         : 46520
 #
-# This File Date  : Sun Jun 25 01:28:05 UTC 2017
+# This File Date  : Sun Jun 25 01:40:05 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 2467 unique IPs
+# Entries         : 2469 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -30,6 +30,7 @@
 # Processed with sCRiPTz-TEAM's iprange
 #
 1.52.3.58
+1.55.5.143
 1.55.179.235
 1.214.208.226
 1.234.4.23
@@ -314,7 +315,6 @@
 37.49.224.241
 37.49.224.245
 37.49.224.247
-37.49.224.248
 37.49.224.252
 37.49.225.118
 37.49.225.124
@@ -391,7 +391,6 @@
 41.226.11.226
 41.226.95.17
 41.228.163.20
-41.230.21.35
 41.231.3.153
 41.232.132.77
 41.232.178.108
@@ -1021,6 +1020,7 @@
 103.65.182.78
 103.67.234.136
 103.69.240.62
+103.70.137.146
 103.79.143.248
 103.89.88.60
 103.207.17.76
@@ -1169,6 +1169,7 @@
 111.181.35.20
 111.181.35.67
 111.181.35.227
+111.181.40.3
 111.181.40.81
 111.181.40.199
 111.181.40.220
@@ -1230,7 +1231,9 @@
 112.123.8.246
 112.123.8.248
 112.123.9.45
+112.123.9.65
 112.123.9.98
+112.123.9.156
 112.123.9.238
 112.123.54.235
 112.123.54.246
@@ -2182,7 +2185,6 @@
 195.22.126.241
 195.22.126.242
 195.22.126.244
-195.22.126.246
 195.22.127.25
 195.22.127.36
 195.138.206.106
