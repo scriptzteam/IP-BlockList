@@ -20,12 +20,12 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://ransomwaretracker.abuse.ch
 # List source URL : https://ransomwaretracker.abuse.ch/feeds/csv/
-# Source File Date: Sun Jun 25 08:56:14 UTC 2017
+# Source File Date: Sun Jun 25 11:08:19 UTC 2017
 #
 # Category        : malware
-# Version         : 7312
+# Version         : 7313
 #
-# This File Date  : Sun Jun 25 08:56:15 UTC 2017
+# This File Date  : Sun Jun 25 11:08:20 UTC 2017
 # Update Frequency: 5 mins 
 # Aggregation     : none
 # Entries         : 159 unique IPs
@@ -40,7 +40,6 @@
 # Processed with sCRiPTz-TEAM's iprange
 #
 5.144.130.35
-5.188.61.239
 23.249.164.171
 27.254.38.80
 27.254.41.206
@@ -191,6 +190,7 @@
 216.22.20.113
 216.117.135.21
 216.117.187.62
+216.170.126.130
 216.218.135.114
 217.31.51.180
 220.243.235.201
