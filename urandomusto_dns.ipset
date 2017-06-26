@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=dns&out=txt&submit=go
-# Source File Date: Mon Jun 26 12:17:13 UTC 2017
+# Source File Date: Mon Jun 26 14:24:27 UTC 2017
 #
 # Category        : attacks
-# Version         : 938
+# Version         : 939
 #
-# This File Date  : Mon Jun 26 12:17:13 UTC 2017
+# This File Date  : Mon Jun 26 14:24:27 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 68 unique IPs
+# Entries         : 69 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -94,5 +94,6 @@
 196.52.43.54
 196.52.43.58
 209.126.136.2
+209.126.136.5
 213.183.48.145
 217.21.193.20
