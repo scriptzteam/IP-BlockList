@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=smb&out=txt&submit=go
-# Source File Date: Tue Jun 27 22:28:55 UTC 2017
+# Source File Date: Tue Jun 27 23:33:10 UTC 2017
 #
 # Category        : attacks
-# Version         : 1335
+# Version         : 1336
 #
-# This File Date  : Tue Jun 27 22:28:55 UTC 2017
+# This File Date  : Tue Jun 27 23:33:10 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 118 unique IPs
+# Entries         : 120 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -41,6 +41,7 @@
 37.48.104.177
 37.59.173.26
 37.193.91.17
+45.55.0.44
 45.55.1.193
 45.55.2.237
 45.55.3.5
@@ -92,6 +93,7 @@
 111.251.39.109
 112.196.203.55
 112.207.19.223
+113.64.83.250
 114.43.33.96
 117.3.62.174
 118.173.8.233
