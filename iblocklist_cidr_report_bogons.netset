@@ -8,15 +8,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=lujdnbasfaaixitgmxpp&fileformat=p2p&archiveformat=gz
-# Source File Date: Tue Jun 27 10:05:29 UTC 2017
+# Source File Date: Thu Jun 29 10:11:40 UTC 2017
 #
 # Category        : unrouteable
-# Version         : 376
+# Version         : 377
 #
-# This File Date  : Tue Jun 27 10:24:27 UTC 2017
+# This File Date  : Thu Jun 29 10:28:44 UTC 2017
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 3929 subnets, 601478856 unique IPs
+# Entries         : 3933 subnets, 601454536 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -421,6 +421,7 @@
 91.212.163.0/24
 91.212.198.0/24
 91.212.201.0/24
+91.212.220.0/24
 91.212.226.0/24
 91.212.231.0/24
 91.212.235.0/24
@@ -620,6 +621,7 @@
 93.90.64.0/20
 93.92.224.0/21
 93.93.104.0/21
+93.93.168.0/21
 93.93.240.0/21
 93.157.104.0/21
 93.157.184.0/21
@@ -748,6 +750,7 @@
 185.25.156.0/22
 185.26.44.0/22
 185.30.168.0/22
+185.33.172.0/22
 185.35.224.0/22
 185.46.4.0/22
 185.48.96.0/22
@@ -779,8 +782,10 @@
 185.109.152.0/22
 185.112.240.0/22
 185.114.216.0/22
+185.117.112.0/22
 185.118.104.0/21
 185.122.244.0/22
+185.124.40.0/22
 185.126.232.0/22
 185.129.160.0/22
 185.130.4.0/22
@@ -798,10 +803,9 @@
 185.164.96.0/22
 185.182.244.0/22
 185.194.52.0/22
-185.210.52.0/22
-185.210.56.0/21
-185.210.64.0/18
-185.210.128.0/17
+185.210.168.0/21
+185.210.176.0/20
+185.210.192.0/18
 185.211.0.0/16
 185.212.0.0/14
 185.216.0.0/13
