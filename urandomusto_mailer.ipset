@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=mailer&out=txt&submit=go
-# Source File Date: Fri Jun 30 10:44:46 UTC 2017
+# Source File Date: Fri Jun 30 11:53:01 UTC 2017
 #
 # Category        : spam
-# Version         : 3256
+# Version         : 3257
 #
-# This File Date  : Fri Jun 30 10:44:46 UTC 2017
+# This File Date  : Fri Jun 30 11:53:01 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 296 unique IPs
+# Entries         : 297 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -39,6 +39,7 @@
 27.9.81.183
 37.98.23.198
 38.95.108.27
+40.71.173.191
 40.85.185.5
 41.79.219.222
 41.82.110.238
@@ -63,6 +64,7 @@
 62.99.76.97
 66.96.215.173
 66.98.69.57
+69.74.215.3
 69.87.221.124
 70.95.218.154
 70.99.133.238
@@ -112,6 +114,7 @@
 95.85.130.122
 95.86.61.6
 96.9.69.22
+96.56.76.66
 96.88.102.30
 96.90.55.73
 97.89.253.230
@@ -130,8 +133,6 @@
 109.99.125.39
 111.93.62.210
 111.93.108.114
-111.95.109.1
-111.95.127.139
 113.97.185.205
 114.99.1.162
 114.99.2.31
@@ -250,7 +251,6 @@
 186.87.103.75
 186.96.84.140
 187.85.209.150
-187.94.99.194
 187.94.111.100
 188.95.234.6
 189.8.32.2
@@ -260,6 +260,7 @@
 190.9.58.103
 190.9.58.151
 190.60.102.194
+190.60.122.229
 190.84.196.124
 190.91.88.237
 190.92.84.178
