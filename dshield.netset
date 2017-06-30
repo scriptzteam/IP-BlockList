@@ -9,12 +9,12 @@
 # Maintainer      : DShield.org
 # Maintainer URL  : https://dshield.org/
 # List source URL : http://feeds.dshield.org/block.txt
-# Source File Date: Fri Jun 30 00:30:22 UTC 2017
+# Source File Date: Fri Jun 30 01:58:08 UTC 2017
 #
 # Category        : attacks
-# Version         : 18179
+# Version         : 18180
 #
-# This File Date  : Fri Jun 30 00:32:02 UTC 2017
+# This File Date  : Fri Jun 30 02:00:06 UTC 2017
 # Update Frequency: 10 mins 
 # Aggregation     : none
 # Entries         : 19 subnets, 5120 unique IPs
@@ -37,8 +37,8 @@
 64.125.239.0/24
 71.6.146.0/24
 71.6.216.0/24
-77.72.82.0/24
 80.82.77.0/24
+91.211.0.0/24
 91.211.2.0/24
 91.223.133.0/24
 94.102.49.0/24
