@@ -9,15 +9,15 @@
 # Maintainer      : MaxMind.com
 # Maintainer URL  : http://www.maxmind.com/
 # List source URL : http://geolite.maxmind.com/download/geoip/database/GeoLite2-Country-CSV.zip
-# Source File Date: Thu Jun  8 04:50:15 UTC 2017
+# Source File Date: Tue Jul  4 19:19:10 UTC 2017
 #
 # Category        : geolocation
-# Version         : 22
+# Version         : 23
 #
-# This File Date  : Tue Jun 13 23:20:24 UTC 2017
+# This File Date  : Thu Jul  6 05:40:20 UTC 2017
 # Update Frequency: 7 days 
 # Aggregation     : none
-# Entries         : 423 subnets, 1372672 unique IPs
+# Entries         : 442 subnets, 1381115 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -274,7 +274,20 @@
 178.132.112.0/20
 178.132.128.0/18
 178.168.0.0/17
-178.175.128.0/17
+178.175.128.0/21
+178.175.136.0/23
+178.175.138.0/26
+178.175.138.64/28
+178.175.138.80/29
+178.175.138.88/31
+178.175.138.91
+178.175.138.96/27
+178.175.138.128/25
+178.175.139.0/24
+178.175.140.0/22
+178.175.144.0/20
+178.175.160.0/19
+178.175.192.0/18
 178.236.180.0/24
 178.236.188.0/22
 185.1.45.0/24
@@ -315,6 +328,7 @@
 185.165.240.0/22
 185.167.56.0/22
 185.167.132.0/22
+185.167.217.0/24
 185.169.48.0/22
 185.170.108.0/22
 185.170.164.0/22
@@ -363,10 +377,15 @@
 185.204.140.0/22
 185.204.236.0/22
 185.206.72.0/22
+185.207.180.0/22
+185.207.236.0/22
+185.208.128.0/22
+185.208.248.0/22
 188.0.224.0/19
 188.72.110.0/24
 188.94.80.0/21
 188.130.180.0/23
+188.130.192.0/20
 188.131.0.0/17
 188.138.128.0/17
 188.191.208.0/21

@@ -9,15 +9,15 @@
 # Maintainer      : MaxMind.com
 # Maintainer URL  : http://www.maxmind.com/
 # List source URL : http://geolite.maxmind.com/download/geoip/database/GeoLite2-Country-CSV.zip
-# Source File Date: Tue May  2 22:06:13 UTC 2017
+# Source File Date: Tue Jul  4 19:19:10 UTC 2017
 #
 # Category        : geolocation
-# Version         : 14
+# Version         : 15
 #
-# This File Date  : Tue May  9 20:40:17 UTC 2017
+# This File Date  : Thu Jul  6 05:40:18 UTC 2017
 # Update Frequency: 7 days 
 # Aggregation     : none
-# Entries         : 159 subnets, 695711 unique IPs
+# Entries         : 166 subnets, 695391 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -104,7 +104,14 @@
 172.111.152.0/24
 176.28.128.0/17
 176.29.0.0/16
-176.52.176.0/22
+176.52.176.16/28
+176.52.176.32/27
+176.52.176.64/26
+176.52.176.128/28
+176.52.177.0/27
+176.52.177.32/28
+176.52.177.80/28
+176.52.178.0/23
 176.52.181.0/24
 176.57.0.0/19
 178.20.184.0/21
