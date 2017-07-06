@@ -8,15 +8,15 @@
 # Maintainer      : BBcan177
 # Maintainer URL  : https://gist.github.com/BBcan177
 # List source URL : https://gist.githubusercontent.com/BBcan177/bf29d47ea04391cb3eb0/raw
-# Source File Date: Mon Oct 17 09:20:14 UTC 2016
+# Source File Date: Thu Jul  6 03:40:14 UTC 2017
 #
 # Category        : malware
-# Version         : 51
+# Version         : 52
 #
-# This File Date  : Mon Oct 17 09:20:14 UTC 2016
+# This File Date  : Thu Jul  6 03:40:14 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 2566 subnets, 5268568 unique IPs
+# Entries         : 2565 subnets, 5268567 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -2338,7 +2338,6 @@
 205.185.216.10
 205.185.216.42
 205.186.187.83
-205.234.175.175
 205.236.147.16
 205.251.133.203
 206.5.53.128
