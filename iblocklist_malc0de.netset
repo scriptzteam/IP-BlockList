@@ -9,15 +9,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=pbqcylkejciyhmwttify&fileformat=p2p&archiveformat=gz
-# Source File Date: Wed Jul  5 17:37:06 UTC 2017
+# Source File Date: Thu Jul  6 17:40:06 UTC 2017
 #
 # Category        : malware
-# Version         : 515
+# Version         : 516
 #
-# This File Date  : Wed Jul  5 17:57:08 UTC 2017
+# This File Date  : Thu Jul  6 17:52:12 UTC 2017
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 233 subnets, 241 unique IPs
+# Entries         : 237 subnets, 245 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -38,6 +38,7 @@
 13.32.251.100
 14.129.114.130
 23.63.226.26
+23.63.226.121
 23.63.226.146
 23.229.156.226
 27.254.96.21
@@ -106,6 +107,7 @@
 87.121.121.2
 89.46.105.77
 89.161.204.243
+91.192.111.211
 92.223.193.213
 94.23.252.37
 94.31.29.41
@@ -149,7 +151,6 @@
 119.147.227.156
 120.26.127.170
 120.26.205.175
-120.26.234.213
 120.27.246.89
 120.55.114.132
 121.29.54.100
@@ -176,6 +177,7 @@
 174.36.215.20
 175.126.170.70
 175.126.170.110
+177.185.192.108
 180.97.77.93
 182.252.255.254
 183.131.168.153
@@ -222,7 +224,9 @@
 198.7.61.54
 198.20.70.70
 198.20.70.78
+198.54.115.30
 198.143.138.155
+199.91.153.38
 200.7.96.11
 202.107.233.111
 203.130.60.48
