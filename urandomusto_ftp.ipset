@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=ftp&out=txt&submit=go
-# Source File Date: Thu Jul  6 02:26:27 UTC 2017
+# Source File Date: Thu Jul  6 03:29:03 UTC 2017
 #
 # Category        : attacks
-# Version         : 3212
+# Version         : 3213
 #
-# This File Date  : Thu Jul  6 02:26:27 UTC 2017
+# This File Date  : Thu Jul  6 03:29:03 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 230 unique IPs
+# Entries         : 232 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -29,9 +29,10 @@
 # Processed with sCRiPTz-TEAM's iprange
 #
 1.49.35.55
-14.219.242.14
+14.157.23.158
 14.223.127.187
 23.115.128.94
+27.157.15.163
 27.207.96.22
 31.44.126.243
 36.5.198.245
@@ -72,7 +73,6 @@
 59.39.89.126
 59.63.248.131
 59.63.248.143
-60.20.108.242
 60.27.225.157
 60.30.79.26
 60.40.247.132
@@ -84,11 +84,12 @@
 61.224.167.215
 62.113.208.201
 62.210.205.141
+64.7.98.5
 65.23.128.24
 69.64.52.6
 71.6.146.185
 80.82.77.33
-83.221.178.226
+80.82.77.139
 84.221.186.23
 85.17.73.242
 88.248.16.231
@@ -115,6 +116,7 @@
 106.75.61.227
 106.75.72.167
 106.75.106.221
+110.82.71.237
 110.240.216.70
 111.27.11.35
 111.27.11.171
