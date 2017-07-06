@@ -10,15 +10,15 @@
 # Maintainer      : TalosIntel.com
 # Maintainer URL  : http://talosintel.com/
 # List source URL : http://talosintel.com/feeds/ip-filter.blf
-# Source File Date: Thu Jul  6 08:16:49 UTC 2017
+# Source File Date: Thu Jul  6 09:16:43 UTC 2017
 #
 # Category        : attacks
-# Version         : 25153
+# Version         : 25154
 #
-# This File Date  : Thu Jul  6 08:20:59 UTC 2017
+# This File Date  : Thu Jul  6 09:20:12 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 18105 unique IPs
+# Entries         : 18106 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -387,6 +387,7 @@
 45.62.250.240
 45.62.255.94
 45.64.12.124
+45.76.33.53
 45.77.35.239
 45.77.56.43
 45.78.3.204
