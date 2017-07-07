@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=rdp&out=txt&submit=go
-# Source File Date: Fri Jul  7 07:41:01 UTC 2017
+# Source File Date: Fri Jul  7 08:44:39 UTC 2017
 #
 # Category        : attacks
-# Version         : 3309
+# Version         : 3310
 #
-# This File Date  : Fri Jul  7 07:41:01 UTC 2017
+# This File Date  : Fri Jul  7 08:44:39 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 215 unique IPs
+# Entries         : 217 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -95,6 +95,7 @@
 69.64.48.216
 69.199.116.34
 70.90.59.90
+70.95.76.206
 71.6.216.43
 71.6.216.55
 71.6.216.60
@@ -140,7 +141,9 @@
 94.102.51.216
 95.46.8.47
 96.64.184.25
+98.109.178.237
 103.57.72.114
+103.71.179.102
 103.71.179.114
 103.207.37.232
 103.231.125.122
@@ -236,7 +239,6 @@
 218.89.67.131
 218.199.48.67
 218.200.157.18
-220.127.107.130
 220.231.90.220
 220.250.52.83
 221.10.124.138
