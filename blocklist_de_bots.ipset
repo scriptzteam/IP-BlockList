@@ -12,15 +12,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/bots.txt
-# Source File Date: Tue Jul 11 16:25:21 UTC 2017
+# Source File Date: Tue Jul 11 17:10:55 UTC 2017
 #
 # Category        : attacks
-# Version         : 44141
+# Version         : 44142
 #
-# This File Date  : Tue Jul 11 16:28:06 UTC 2017
+# This File Date  : Tue Jul 11 17:24:11 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 285 unique IPs
+# Entries         : 289 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -32,6 +32,7 @@
 # Processed with sCRiPTz-TEAM's iprange
 #
 5.9.106.230
+5.44.168.121
 5.62.157.56
 5.101.217.106
 5.188.211.10
@@ -68,10 +69,10 @@
 37.115.187.206
 37.115.215.71
 37.115.221.232
-37.235.48.79
 45.55.73.31
 46.4.0.246
 46.4.91.109
+46.22.211.22
 46.50.129.43
 46.118.119.191
 46.119.122.186
@@ -80,8 +81,8 @@
 46.148.127.173
 46.161.9.14
 46.161.9.22
-46.161.9.32
 46.161.9.41
+46.161.9.55
 46.200.64.187
 49.228.215.4
 49.228.247.68
@@ -159,6 +160,7 @@
 103.229.127.42
 104.160.20.11
 104.171.114.216
+104.238.169.21
 104.238.169.26
 104.238.169.121
 108.5.125.148
@@ -220,6 +222,7 @@
 178.76.243.0
 178.125.212.230
 178.137.16.167
+178.137.81.26
 178.137.143.56
 178.137.161.11
 178.137.161.138
@@ -249,6 +252,7 @@
 180.76.15.143
 180.76.15.149
 180.76.15.150
+180.76.15.153
 180.76.15.156
 180.76.15.159
 183.160.241.220
