@@ -10,15 +10,15 @@
 # Maintainer      : Bambenek Consulting
 # Maintainer URL  : http://osint.bambenekconsulting.com/feeds/
 # List source URL : http://osint.bambenekconsulting.com/feeds/banjori-iplist.txt
-# Source File Date: Wed Jul 12 12:07:30 UTC 2017
+# Source File Date: Wed Jul 12 13:07:33 UTC 2017
 #
 # Category        : malware
-# Version         : 5025
+# Version         : 5026
 #
-# This File Date  : Wed Jul 12 12:12:24 UTC 2017
+# This File Date  : Wed Jul 12 13:16:36 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 106 unique IPs
+# Entries         : 103 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -74,11 +74,9 @@
 106.187.51.202
 107.160.183.81
 107.161.176.66
-108.187.211.32
 109.70.4.246
 109.71.51.55
-112.78.125.29
-112.121.187.246
+112.121.185.141
 112.127.77.125
 119.23.127.213
 119.188.157.22
@@ -99,7 +97,6 @@
 163.44.191.38
 172.247.131.161
 173.236.55.90
-173.239.23.228
 174.137.132.42
 178.79.147.207
 184.168.221.96
