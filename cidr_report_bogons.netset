@@ -11,15 +11,15 @@
 # Maintainer      : CIDR-Report.org
 # Maintainer URL  : http://www.cidr-report.org
 # List source URL : http://www.cidr-report.org/bogons/freespace-prefix.txt
-# Source File Date: Fri Jul  7 04:49:43 UTC 2017
+# Source File Date: Wed Jul 12 04:35:50 UTC 2017
 #
 # Category        : unrouteable
-# Version         : 389
+# Version         : 390
 #
-# This File Date  : Fri Jul  7 05:01:43 UTC 2017
+# This File Date  : Wed Jul 12 04:36:09 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 3938 subnets, 601383112 unique IPs
+# Entries         : 3944 subnets, 601285832 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -553,6 +553,7 @@
 91.230.147.0/24
 91.230.182.0/23
 91.230.228.0/23
+91.231.47.0/24
 91.231.89.0/24
 91.231.126.0/24
 91.231.156.0/24
@@ -686,7 +687,9 @@
 147.78.0.0/16
 149.62.32.0/20
 149.255.16.0/21
-151.216.0.0/13
+151.217.0.0/16
+151.218.0.0/15
+151.220.0.0/14
 152.89.0.0/16
 160.19.92.0/22
 160.19.180.0/22
@@ -771,6 +774,7 @@
 185.75.224.0/22
 185.78.172.0/22
 185.80.176.0/22
+185.82.196.0/22
 185.82.244.0/22
 185.86.216.0/22
 185.87.148.0/22
@@ -812,8 +816,10 @@
 185.164.96.0/22
 185.182.244.0/22
 185.194.52.0/22
-185.211.224.0/19
-185.212.0.0/14
+185.212.96.0/19
+185.212.128.0/17
+185.213.0.0/16
+185.214.0.0/15
 185.216.0.0/13
 185.224.0.0/11
 188.64.208.0/21
@@ -1002,7 +1008,7 @@
 193.16.42.0/24
 193.16.106.0/24
 193.16.110.0/24
-193.16.144.0/23
+193.16.144.0/24
 193.16.149.0/24
 193.16.151.0/24
 193.16.156.0/24
