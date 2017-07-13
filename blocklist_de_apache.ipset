@@ -10,15 +10,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/apache.txt
-# Source File Date: Thu Jul 13 12:06:58 UTC 2017
+# Source File Date: Thu Jul 13 12:20:23 UTC 2017
 #
 # Category        : attacks
-# Version         : 46291
+# Version         : 46292
 #
-# This File Date  : Thu Jul 13 12:16:08 UTC 2017
+# This File Date  : Thu Jul 13 12:24:04 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 9044 unique IPs
+# Entries         : 9045 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -2384,6 +2384,7 @@
 89.248.174.27
 90.127.135.227
 90.154.133.192
+91.104.139.173
 91.121.79.180
 91.121.82.64
 91.160.74.141
@@ -5046,6 +5047,7 @@
 112.2.245.120
 112.20.97.145
 112.20.99.46
+112.21.195.182
 112.22.255.122
 112.23.7.76
 112.24.103.242
@@ -9050,7 +9052,6 @@
 222.108.121.23
 222.160.126.34
 222.161.47.82
-222.179.189.206
 222.180.197.38
 222.186.51.138
 222.186.52.7
