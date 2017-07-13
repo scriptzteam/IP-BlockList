@@ -12,15 +12,15 @@
 # Maintainer      : sCRiPTz-TEAM
 # Maintainer URL  : http://sCRiPTz-TEAM/
 # List source URL : 
-# Source File Date: Thu Jul 13 01:16:19 UTC 2017
+# Source File Date: Thu Jul 13 01:56:14 UTC 2017
 #
 # Category        : malware
-# Version         : 8567
+# Version         : 8568
 #
-# This File Date  : Thu Jul 13 01:16:45 UTC 2017
+# This File Date  : Thu Jul 13 01:56:45 UTC 2017
 # Update Frequency: 1 min 
 # Aggregation     : none
-# Entries         : 32340 subnets, 32444 unique IPs
+# Entries         : 32341 subnets, 32445 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1915,6 +1915,7 @@
 31.207.177.127
 31.207.196.222
 31.209.159.95
+31.210.65.222
 31.210.95.154
 31.210.123.19
 31.210.123.29
