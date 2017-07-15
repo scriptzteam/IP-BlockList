@@ -15,15 +15,15 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://zeustracker.abuse.ch/
 # List source URL : https://zeustracker.abuse.ch/blocklist.php?download=ipblocklist
-# Source File Date: Sat Jul 15 09:32:43 UTC 2017
+# Source File Date: Sat Jul 15 11:22:14 UTC 2017
 #
 # Category        : malware
-# Version         : 1044
+# Version         : 1045
 #
-# This File Date  : Sat Jul 15 10:04:11 UTC 2017
+# This File Date  : Sat Jul 15 11:52:03 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 132 unique IPs
+# Entries         : 135 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -76,6 +76,7 @@
 87.246.143.242
 87.254.167.37
 89.108.85.65
+89.163.150.37
 89.223.26.20
 91.108.176.118
 91.236.75.11
@@ -108,7 +109,9 @@
 151.97.190.239
 162.223.94.56
 177.4.23.159
+179.43.184.198
 180.182.234.200
+184.168.221.58
 185.25.119.84
 185.28.100.99
 185.35.138.22
