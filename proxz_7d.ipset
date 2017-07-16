@@ -9,15 +9,15 @@
 # Maintainer      : ProxZ.com
 # Maintainer URL  : http://www.proxz.com/
 # List source URL : http://www.proxz.com/proxylists.xml
-# Source File Date: Sun Jul 16 00:30:34 UTC 2017
+# Source File Date: Sun Jul 16 02:00:33 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 7745
+# Version         : 7746
 #
-# This File Date  : Sun Jul 16 01:01:44 UTC 2017
+# This File Date  : Sun Jul 16 02:36:19 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : 7 days 
-# Entries         : 662 unique IPs
+# Entries         : 670 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -38,6 +38,7 @@
 34.195.185.69
 34.210.9.216
 34.249.126.25
+35.160.136.133
 35.164.244.184
 36.37.243.41
 36.55.231.60
@@ -114,9 +115,12 @@
 52.17.165.9
 52.20.9.123
 52.41.123.30
+52.42.87.191
+52.77.193.180
 52.89.106.66
 52.179.18.244
 52.221.40.19
+54.83.201.240
 54.185.121.52
 54.207.42.178
 54.225.238.140
@@ -149,6 +153,7 @@
 61.234.37.117
 62.45.225.201
 62.63.100.150
+62.80.168.23
 62.80.168.202
 62.84.66.39
 62.96.226.226
@@ -158,11 +163,13 @@
 62.210.51.150
 62.210.211.120
 62.232.93.214
+63.110.242.67
 63.223.94.52
 64.20.48.83
 64.34.21.84
 64.140.159.209
 64.183.94.45
+66.57.43.122
 66.70.160.131
 66.78.18.40
 66.78.19.23
@@ -638,6 +645,7 @@
 202.152.63.5
 202.162.193.238
 202.183.32.185
+203.93.0.115
 203.122.220.37
 204.12.155.204
 204.16.100.100
