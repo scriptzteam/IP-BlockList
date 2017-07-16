@@ -8,15 +8,15 @@
 # Maintainer      : CleanTalk
 # Maintainer URL  : https://cleantalk.org/
 # List source URL : https://cleantalk.org/blacklists/submited_today
-# Source File Date: Sun Jul 16 18:12:29 UTC 2017
+# Source File Date: Sun Jul 16 18:28:23 UTC 2017
 #
 # Category        : abuse
-# Version         : 49701
+# Version         : 49702
 #
-# This File Date  : Sun Jul 16 18:12:29 UTC 2017
+# This File Date  : Sun Jul 16 18:28:23 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 388 unique IPs
+# Entries         : 393 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -40,7 +40,6 @@
 5.228.5.98
 5.236.134.116
 5.248.248.37
-5.254.247.119
 13.58.1.188
 18.220.28.181
 23.88.96.101
@@ -85,10 +84,12 @@
 37.115.186.187
 37.212.33.29
 37.212.38.157
+37.212.62.157
 39.48.81.108
 39.161.189.91
 41.141.30.100
 42.2.168.219
+42.51.22.250
 45.32.225.93
 45.43.25.29
 45.76.90.100
@@ -198,6 +199,7 @@
 84.19.190.113
 84.53.198.193
 84.229.0.31
+84.229.16.190
 84.229.74.171
 86.106.17.180
 87.16.27.20
@@ -313,6 +315,7 @@
 171.229.230.78
 172.94.0.193
 173.44.164.177
+173.244.44.34
 175.9.7.69
 175.169.69.251
 175.175.16.195
@@ -323,6 +326,7 @@
 176.212.80.106
 176.222.23.1
 178.37.161.66
+178.45.62.111
 178.125.180.221
 178.125.208.198
 178.204.135.100
@@ -380,6 +384,7 @@
 189.62.119.155
 189.100.188.2
 189.103.106.144
+189.148.163.187
 189.161.107.194
 189.219.56.129
 189.219.56.197
