@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=ftp&out=txt&submit=go
-# Source File Date: Sun Jul 16 19:24:35 UTC 2017
+# Source File Date: Sun Jul 16 20:28:40 UTC 2017
 #
 # Category        : attacks
-# Version         : 3378
+# Version         : 3379
 #
-# This File Date  : Sun Jul 16 19:24:35 UTC 2017
+# This File Date  : Sun Jul 16 20:28:40 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 297 unique IPs
+# Entries         : 300 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -33,7 +33,6 @@
 1.207.250.101
 2.133.43.44
 5.39.23.158
-5.135.251.198
 14.120.73.248
 14.120.82.144
 14.121.241.37
@@ -120,6 +119,7 @@
 103.216.160.92
 104.236.171.169
 104.236.189.157
+104.236.191.42
 104.237.202.7
 110.16.83.138
 110.89.19.97
@@ -194,6 +194,7 @@
 121.9.9.52
 121.32.144.202
 121.227.206.173
+121.237.133.146
 122.118.41.71
 122.173.47.28
 122.190.196.25
@@ -242,6 +243,7 @@
 178.121.134.16
 178.121.197.209
 178.206.236.1
+180.97.106.162
 180.105.170.160
 180.108.32.209
 180.109.69.133
@@ -297,6 +299,8 @@
 218.161.75.126
 218.201.60.253
 218.202.72.201
+218.236.94.66
+218.241.218.178
 219.139.72.81
 219.139.90.193
 219.140.115.152
@@ -313,7 +317,6 @@
 221.205.138.73
 221.219.134.93
 221.220.159.142
-222.85.131.16
 222.86.159.236
 222.94.148.12
 222.160.187.46
