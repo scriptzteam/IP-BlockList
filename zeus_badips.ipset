@@ -15,12 +15,12 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://zeustracker.abuse.ch/
 # List source URL : https://zeustracker.abuse.ch/blocklist.php?download=badips
-# Source File Date: Mon Jul 17 09:48:03 UTC 2017
+# Source File Date: Mon Jul 17 10:20:05 UTC 2017
 #
 # Category        : malware
-# Version         : 5803
+# Version         : 5804
 #
-# This File Date  : Mon Jul 17 09:48:03 UTC 2017
+# This File Date  : Mon Jul 17 10:20:06 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
 # Entries         : 124 unique IPs
@@ -71,7 +71,6 @@
 87.246.143.242
 87.254.167.37
 89.108.85.65
-89.223.30.214
 91.108.176.118
 91.236.75.11
 91.236.213.74
@@ -109,6 +108,7 @@
 185.25.119.84
 185.28.100.99
 185.35.138.22
+185.159.130.227
 185.203.116.120
 187.174.252.247
 187.191.98.202
