@@ -29,15 +29,15 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://ransomwaretracker.abuse.ch
 # List source URL : https://ransomwaretracker.abuse.ch/downloads/RW_IPBL.txt
-# Source File Date: Mon Jul 17 20:10:02 UTC 2017
+# Source File Date: Mon Jul 17 20:25:02 UTC 2017
 #
 # Category        : malware
-# Version         : 6035
+# Version         : 6036
 #
-# This File Date  : Mon Jul 17 20:12:16 UTC 2017
+# This File Date  : Mon Jul 17 20:28:15 UTC 2017
 # Update Frequency: 5 mins 
 # Aggregation     : none
-# Entries         : 353 unique IPs
+# Entries         : 354 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -366,6 +366,7 @@
 194.58.56.57
 194.58.56.73
 194.58.56.89
+194.58.56.104
 194.58.56.106
 194.58.56.115
 194.58.56.139
