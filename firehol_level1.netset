@@ -13,12 +13,12 @@
 # Maintainer      : sCRiPTz-TEAM
 # Maintainer URL  : http://sCRiPTz-TEAM/
 # List source URL : 
-# Source File Date: Sun Jul 16 23:35:02 UTC 2017
+# Source File Date: Sun Jul 16 23:55:01 UTC 2017
 #
 # Category        : attacks
-# Version         : 41029
+# Version         : 41030
 #
-# This File Date  : Sun Jul 16 23:36:34 UTC 2017
+# This File Date  : Sun Jul 16 23:57:02 UTC 2017
 # Update Frequency: 1 min 
 # Aggregation     : none
 # Entries         : 6481 subnets, 652669865 unique IPs
@@ -334,6 +334,7 @@
 46.16.128.0/21
 46.16.200.133
 46.17.40.234
+46.17.46.0/24
 46.19.136.211
 46.22.128.133
 46.22.134.78
@@ -519,7 +520,6 @@
 64.76.19.244
 64.76.19.251
 64.85.233.8
-64.125.239.0/24
 64.127.71.73
 64.145.91.59
 64.145.91.67
