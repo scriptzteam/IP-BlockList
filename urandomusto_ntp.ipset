@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=ntp&out=txt&submit=go
-# Source File Date: Tue Jul 18 17:44:27 UTC 2017
+# Source File Date: Tue Jul 18 19:53:09 UTC 2017
 #
 # Category        : attacks
-# Version         : 2256
+# Version         : 2257
 #
-# This File Date  : Tue Jul 18 17:44:27 UTC 2017
+# This File Date  : Tue Jul 18 19:53:09 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 139 unique IPs
+# Entries         : 138 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -53,6 +53,7 @@
 90.203.45.8
 91.212.150.254
 91.230.121.168
+91.230.121.214
 95.215.62.208
 98.209.195.231
 99.19.97.221
@@ -61,8 +62,8 @@
 104.236.186.32
 104.237.202.7
 106.2.45.13
+107.148.193.65
 107.170.215.245
-109.163.224.34
 111.207.160.84
 111.207.160.86
 112.111.7.15
@@ -131,7 +132,6 @@
 185.35.62.215
 185.35.62.216
 185.35.62.221
-185.35.62.223
 185.35.62.237
 185.35.63.58
 185.35.63.61
@@ -149,7 +149,6 @@
 185.35.63.77
 185.106.121.11
 185.141.26.138
-185.163.109.66
 185.165.29.89
 185.165.29.102
 185.165.29.123
