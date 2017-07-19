@@ -14,15 +14,15 @@
 # Maintainer      : sCRiPTz-TEAM
 # Maintainer URL  : http://sCRiPTz-TEAM/
 # List source URL : 
-# Source File Date: Wed Jul 19 16:24:02 UTC 2017
+# Source File Date: Wed Jul 19 17:52:50 UTC 2017
 #
 # Category        : attacks
-# Version         : 54994
+# Version         : 54995
 #
-# This File Date  : Wed Jul 19 16:24:47 UTC 2017
+# This File Date  : Wed Jul 19 18:04:04 UTC 2017
 # Update Frequency: 1 min 
 # Aggregation     : none
-# Entries         : 69291 subnets, 157938 unique IPs
+# Entries         : 69257 subnets, 158154 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -6288,41 +6288,7 @@
 45.55.5.0/24
 45.55.6.0/23
 45.55.8.0/22
-45.55.12.0/24
-45.55.13.5
-45.55.13.8/31
-45.55.13.13
-45.55.13.19
-45.55.13.21
-45.55.13.23
-45.55.13.26
-45.55.13.30
-45.55.13.32
-45.55.13.34/31
-45.55.13.51
-45.55.13.55
-45.55.13.56
-45.55.13.59
-45.55.13.61
-45.55.13.69
-45.55.13.71
-45.55.13.73
-45.55.13.76
-45.55.13.80
-45.55.13.84
-45.55.13.86/31
-45.55.13.92
-45.55.13.94
-45.55.13.98/31
-45.55.13.102
-45.55.13.105
-45.55.13.107
-45.55.13.111
-45.55.13.119
-45.55.13.120/31
-45.55.13.124/31
-45.55.13.136
-45.55.13.138
+45.55.12.0/23
 45.55.40.135
 45.55.86.6
 45.55.136.31
