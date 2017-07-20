@@ -10,15 +10,15 @@
 # Maintainer      : Bambenek Consulting
 # Maintainer URL  : http://osint.bambenekconsulting.com/feeds/
 # List source URL : http://osint.bambenekconsulting.com/feeds/ramnit-iplist.txt
-# Source File Date: Thu Jul 20 10:04:49 UTC 2017
+# Source File Date: Thu Jul 20 12:05:02 UTC 2017
 #
 # Category        : malware
-# Version         : 3982
+# Version         : 3983
 #
-# This File Date  : Thu Jul 20 10:08:14 UTC 2017
+# This File Date  : Thu Jul 20 12:08:17 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 38 unique IPs
+# Entries         : 39 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -44,6 +44,7 @@
 46.165.220.155
 46.165.220.201
 46.165.221.136
+46.165.229.164
 46.165.229.166
 46.165.229.167
 46.165.254.193
