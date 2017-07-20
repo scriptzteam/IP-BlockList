@@ -10,15 +10,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/ftp.txt
-# Source File Date: Thu Jul 20 21:20:30 UTC 2017
+# Source File Date: Thu Jul 20 21:35:07 UTC 2017
 #
 # Category        : attacks
-# Version         : 43683
+# Version         : 43684
 #
-# This File Date  : Thu Jul 20 21:24:05 UTC 2017
+# This File Date  : Thu Jul 20 21:36:06 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 572 unique IPs
+# Entries         : 568 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -46,6 +46,7 @@
 5.34.200.254
 5.135.51.114
 5.159.232.50
+5.254.88.158
 14.120.74.153
 14.120.74.185
 14.121.242.237
@@ -285,7 +286,6 @@
 114.101.71.96
 114.138.46.121
 114.138.59.85
-114.222.176.117
 114.237.225.9
 114.237.234.192
 114.237.239.142
@@ -310,7 +310,6 @@
 116.12.48.106
 116.24.65.61
 116.30.240.131
-116.52.185.232
 116.112.215.140
 116.122.36.13
 116.226.129.140
@@ -319,7 +318,6 @@
 117.92.28.77
 117.92.30.6
 117.92.30.70
-117.92.42.112
 117.92.232.74
 117.156.41.26
 117.240.111.166
@@ -367,7 +365,6 @@
 120.77.22.44
 120.202.60.211
 121.9.233.242
-121.14.149.70
 121.20.0.43
 121.26.217.158
 121.27.145.156
@@ -478,7 +475,6 @@
 180.166.244.138
 180.175.38.12
 180.175.146.57
-182.50.120.115
 182.108.52.45
 182.108.55.21
 182.201.155.98
