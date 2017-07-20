@@ -20,15 +20,15 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://ransomwaretracker.abuse.ch
 # List source URL : https://ransomwaretracker.abuse.ch/downloads/TL_C2_IPBL.txt
-# Source File Date: Thu Jul 20 15:35:02 UTC 2017
+# Source File Date: Thu Jul 20 16:40:02 UTC 2017
 #
 # Category        : malware
-# Version         : 348
+# Version         : 349
 #
-# This File Date  : Thu Jul 20 15:36:06 UTC 2017
+# This File Date  : Thu Jul 20 16:40:21 UTC 2017
 # Update Frequency: 5 mins 
 # Aggregation     : none
-# Entries         : 19 unique IPs
+# Entries         : 20 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -48,6 +48,7 @@
 194.58.56.55
 194.58.56.57
 194.58.56.89
+194.58.56.103
 194.58.56.106
 194.58.56.115
 194.58.56.139
