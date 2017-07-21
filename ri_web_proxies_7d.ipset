@@ -9,15 +9,15 @@
 # Maintainer      : RosInstrument.com
 # Maintainer URL  : http://www.rosinstrument.com/
 # List source URL : http://tools.rosinstrument.com/proxy/l100.xml
-# Source File Date: Fri Jul 21 12:16:31 UTC 2017
+# Source File Date: Fri Jul 21 16:00:19 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 2494
+# Version         : 2495
 #
-# This File Date  : Fri Jul 21 12:40:30 UTC 2017
+# This File Date  : Fri Jul 21 16:36:28 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : 7 days 
-# Entries         : 2003 unique IPs
+# Entries         : 2010 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -220,6 +220,7 @@
 46.101.79.79
 46.101.87.205
 46.101.99.191
+46.163.119.138
 46.175.185.244
 46.218.73.162
 46.229.138.101
@@ -228,6 +229,7 @@
 47.52.18.182
 47.52.24.117
 47.52.33.227
+47.88.27.208
 47.88.84.190
 47.89.17.36
 47.89.19.75
@@ -243,6 +245,7 @@
 50.62.22.30
 50.63.167.104
 50.116.24.219
+50.203.117.22
 51.15.4.132
 51.174.60.23
 51.254.16.106
@@ -262,6 +265,7 @@
 52.53.155.8
 52.58.118.222
 52.89.106.66
+52.179.18.244
 52.211.196.21
 52.237.24.110
 54.68.9.146
@@ -1496,7 +1500,7 @@
 187.252.11.7
 188.32.99.252
 188.32.118.182
-188.72.68.88
+188.72.68.88/31
 188.120.62.27
 188.120.244.147
 188.137.122.31
@@ -1759,8 +1763,10 @@
 192.95.18.162
 192.99.55.238
 192.153.46.92
+192.241.187.83
 192.241.190.167
 192.241.220.77
+193.192.37.61
 193.227.49.83
 194.67.71.151
 194.88.105.156
