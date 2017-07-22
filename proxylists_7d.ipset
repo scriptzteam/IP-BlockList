@@ -9,15 +9,15 @@
 # Maintainer      : ProxyLists.net
 # Maintainer URL  : http://www.proxylists.net/
 # List source URL : http://www.proxylists.net/proxylists.xml
-# Source File Date: Sat Jul 22 19:00:36 UTC 2017
+# Source File Date: Sat Jul 22 20:00:34 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 8050
+# Version         : 8051
 #
-# This File Date  : Sat Jul 22 19:04:29 UTC 2017
+# This File Date  : Sat Jul 22 20:02:05 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : 7 days 
-# Entries         : 3640 unique IPs
+# Entries         : 3646 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1334,6 +1334,7 @@
 103.63.96.11
 103.63.96.13
 103.63.97.35
+103.63.99.13
 103.63.158.246
 103.63.158.253
 103.63.159.186
@@ -2210,6 +2211,7 @@
 173.244.131.121
 173.246.21.115
 174.32.115.102
+174.32.140.178
 174.138.69.29
 175.100.72.95
 175.103.43.74
@@ -2281,6 +2283,7 @@
 177.128.193.114
 177.128.210.250
 177.128.224.2
+177.128.224.13
 177.128.224.15
 177.128.225.193
 177.130.0.32
@@ -2955,10 +2958,11 @@
 192.129.198.117
 192.129.198.170
 192.129.200.16
+192.129.200.24
 192.129.203.170
 192.129.206.97
 192.129.206.163
-192.129.209.209
+192.129.209.208/31
 192.129.211.70
 192.129.211.156
 192.129.211.217
@@ -3577,6 +3581,7 @@
 222.52.76.50/31
 222.66.76.70
 222.82.222.242
+222.98.44.125
 222.122.202.175
 222.124.30.138
 222.124.146.81
