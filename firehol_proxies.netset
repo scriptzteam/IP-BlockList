@@ -13,15 +13,15 @@
 # Maintainer      : sCRiPTz-TEAM
 # Maintainer URL  : http://sCRiPTz-TEAM/
 # List source URL : 
-# Source File Date: Sat Jul 22 20:42:01 UTC 2017
+# Source File Date: Sat Jul 22 21:02:02 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 74119
+# Version         : 74120
 #
-# This File Date  : Sat Jul 22 20:44:08 UTC 2017
+# This File Date  : Sat Jul 22 21:04:55 UTC 2017
 # Update Frequency: 1 min 
 # Aggregation     : none
-# Entries         : 26649 subnets, 27287 unique IPs
+# Entries         : 26651 subnets, 27289 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -12073,6 +12073,7 @@
 104.244.140.136
 104.244.140.150
 104.244.141.39
+104.244.141.94
 104.244.142.27
 104.244.142.110
 104.244.143.77
@@ -19438,6 +19439,7 @@
 180.249.1.51
 180.249.11.47
 180.249.12.51
+180.249.12.255
 180.249.16.130
 180.249.18.157
 180.249.21.81
