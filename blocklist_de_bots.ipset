@@ -12,15 +12,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/bots.txt
-# Source File Date: Mon Jul 24 01:10:34 UTC 2017
+# Source File Date: Mon Jul 24 01:30:35 UTC 2017
 #
 # Category        : attacks
-# Version         : 44925
+# Version         : 44926
 #
-# This File Date  : Mon Jul 24 01:20:05 UTC 2017
+# This File Date  : Mon Jul 24 01:44:05 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 304 unique IPs
+# Entries         : 303 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -92,6 +92,7 @@
 52.178.139.28
 58.176.46.248
 60.168.48.210
+60.168.49.245
 60.168.59.94
 62.83.254.125
 62.122.93.108
@@ -118,7 +119,6 @@
 88.80.54.112
 88.198.19.164
 89.70.217.98
-89.78.122.187
 89.238.166.245
 91.121.87.126
 91.187.102.95
@@ -213,6 +213,7 @@
 146.185.223.127
 146.185.223.173
 146.185.223.194
+146.185.223.197
 146.247.37.36
 146.247.37.243
 149.56.89.166
@@ -256,7 +257,6 @@
 178.239.177.210
 180.76.15.7
 180.76.15.8
-180.76.15.10
 180.76.15.11
 180.76.15.13
 180.76.15.16
@@ -298,7 +298,6 @@
 195.22.126.21
 195.22.126.22
 195.22.126.23
-195.22.126.25
 195.22.126.26
 195.22.126.27
 195.22.126.33
