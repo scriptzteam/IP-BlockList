@@ -9,15 +9,15 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=unspecified&out=txt&submit=go
-# Source File Date: Mon Jul 24 02:28:52 UTC 2017
+# Source File Date: Mon Jul 24 03:32:55 UTC 2017
 #
 # Category        : attacks
-# Version         : 3806
+# Version         : 3807
 #
-# This File Date  : Mon Jul 24 02:28:52 UTC 2017
+# This File Date  : Mon Jul 24 03:32:55 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
-# Entries         : 187 unique IPs
+# Entries         : 186 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -41,8 +41,6 @@
 40.83.8.192
 40.117.33.251
 45.55.0.183
-45.55.0.195
-45.55.1.50
 45.55.13.237
 45.55.15.154
 45.55.15.161
@@ -95,7 +93,6 @@
 103.210.239.129
 103.214.169.197
 104.43.162.6
-104.236.144.86
 104.236.173.63
 104.236.175.103
 104.236.176.8
@@ -103,7 +100,6 @@
 104.236.181.20
 104.236.186.32
 104.236.188.23
-104.236.188.93
 107.155.132.170
 108.61.140.146
 108.171.107.65
@@ -118,6 +114,7 @@
 120.52.98.228
 121.18.238.80
 121.55.148.88
+121.183.108.61
 122.128.196.167
 122.142.77.101
 122.228.208.105
@@ -194,8 +191,10 @@
 197.239.33.22
 198.20.69.74
 198.20.99.130
+199.168.139.219
 199.188.207.16
 202.168.151.195
+204.152.218.49
 206.221.190.2
 208.67.1.57
 209.66.128.18
