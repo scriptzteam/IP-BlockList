@@ -25,15 +25,15 @@
 # Maintainer      : Stefan Gofferje
 # Maintainer URL  : http://stefan.gofferje.net/it-stuff/sipfraud/sip-attacker-blacklist
 # List source URL : http://stefan.gofferje.net/sipblocklist.zone
-# Source File Date: Tue Jul 25 03:00:03 UTC 2017
+# Source File Date: Wed Jul 26 03:00:04 UTC 2017
 #
 # Category        : attacks
-# Version         : 1099
+# Version         : 1100
 #
-# This File Date  : Tue Jul 25 03:04:24 UTC 2017
+# This File Date  : Wed Jul 26 03:08:22 UTC 2017
 # Update Frequency: 6 hours 
 # Aggregation     : none
-# Entries         : 2055 subnets, 1095960 unique IPs
+# Entries         : 2056 subnets, 1095961 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1538,6 +1538,7 @@
 185.19.221.61
 185.19.222.107
 185.20.99.163
+185.22.155.13
 185.34.200.46
 185.40.4.5
 185.40.4.8
