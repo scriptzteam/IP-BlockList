@@ -14,15 +14,15 @@
 # Maintainer      : PacketMail.net
 # Maintainer URL  : https://www.packetmail.net/
 # List source URL : https://www.packetmail.net/iprep_emerging_ips.txt
-# Source File Date: Tue Jul 25 18:57:15 UTC 2017
+# Source File Date: Wed Jul 26 02:57:16 UTC 2017
 #
 # Category        : reputation
-# Version         : 2068
+# Version         : 2069
 #
-# This File Date  : Tue Jul 25 19:00:49 UTC 2017
+# This File Date  : Wed Jul 26 03:02:29 UTC 2017
 # Update Frequency: 4 hours 
 # Aggregation     : none
-# Entries         : 34 unique IPs
+# Entries         : 36 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -50,6 +50,8 @@
 142.54.169.194
 142.54.171.66
 147.135.135.132
+149.202.180.213
+149.202.180.236
 167.114.229.71
 173.208.146.2
 173.223.106.200
