@@ -10,15 +10,15 @@
 # Maintainer      : Bambenek Consulting
 # Maintainer URL  : http://osint.bambenekconsulting.com/feeds/
 # List source URL : http://osint.bambenekconsulting.com/feeds/matsnu-iplist.txt
-# Source File Date: Wed Jul 26 17:01:51 UTC 2017
+# Source File Date: Thu Jul 27 00:01:49 UTC 2017
 #
 # Category        : malware
-# Version         : 990
+# Version         : 991
 #
-# This File Date  : Wed Jul 26 17:08:40 UTC 2017
+# This File Date  : Thu Jul 27 00:04:31 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 1 unique IPs
+# Entries         : 2 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -30,3 +30,4 @@
 # Processed with sCRiPTz-TEAM's iprange
 #
 74.208.168.217
+88.99.101.251
