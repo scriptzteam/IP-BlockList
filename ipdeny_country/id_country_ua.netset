@@ -8,15 +8,15 @@
 # Maintainer      : IPDeny.com
 # Maintainer URL  : http://www.ipdeny.com/
 # List source URL : http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz
-# Source File Date: Wed Jul 26 12:07:29 UTC 2017
+# Source File Date: Thu Jul 27 12:07:23 UTC 2017
 #
 # Category        : geolocation
-# Version         : 194
+# Version         : 195
 #
-# This File Date  : Wed Jul 26 12:20:13 UTC 2017
+# This File Date  : Thu Jul 27 12:24:13 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 2738 subnets, 11469664 unique IPs
+# Entries         : 2740 subnets, 11470944 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1278,6 +1278,7 @@
 176.120.32.0/19
 176.120.96.0/20
 176.120.112.0/21
+176.121.9.0/24
 176.121.11.0/24
 176.121.12.0/23
 176.121.72.0/21
@@ -1621,6 +1622,7 @@
 185.213.176.0/22
 185.213.208.0/22
 185.213.232.0/22
+185.214.196.0/22
 188.0.64.0/18
 188.95.152.0/21
 188.115.128.0/18
