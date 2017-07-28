@@ -10,15 +10,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/sip.txt
-# Source File Date: Fri Jul 28 20:42:37 UTC 2017
+# Source File Date: Fri Jul 28 20:56:30 UTC 2017
 #
 # Category        : attacks
-# Version         : 29249
+# Version         : 29250
 #
-# This File Date  : Fri Jul 28 20:44:06 UTC 2017
+# This File Date  : Fri Jul 28 21:00:20 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 234 unique IPs
+# Entries         : 236 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -143,6 +143,7 @@
 89.72.119.98
 89.115.63.129
 89.163.145.237
+89.163.210.102
 89.207.131.96
 89.211.245.166
 90.89.104.120
@@ -235,6 +236,7 @@
 195.22.126.239
 195.154.47.154
 195.154.189.239
+195.154.214.162
 197.230.15.14
 199.48.164.140
 200.216.31.68
