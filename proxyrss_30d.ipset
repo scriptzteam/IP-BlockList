@@ -9,15 +9,15 @@
 # Maintainer      : ProxyRSS.com
 # Maintainer URL  : http://www.proxyrss.com/
 # List source URL : http://www.proxyrss.com/proxylists/all.gz
-# Source File Date: Sat Jul 29 02:30:26 UTC 2017
+# Source File Date: Sat Jul 29 06:30:26 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 4451
+# Version         : 4452
 #
-# This File Date  : Sat Jul 29 03:02:11 UTC 2017
+# This File Date  : Sat Jul 29 06:32:26 UTC 2017
 # Update Frequency: 4 hours 
 # Aggregation     : 30 days 
-# Entries         : 3903 unique IPs
+# Entries         : 3907 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1026,6 +1026,7 @@
 85.236.25.18
 85.237.250.159
 85.238.97.214
+86.57.136.230
 86.57.248.240
 86.62.108.219
 86.102.106.150
@@ -1146,7 +1147,7 @@
 91.187.102.95
 91.187.110.66
 91.187.110.69
-91.187.110.75
+91.187.110.74/31
 91.187.113.205
 91.188.116.218
 91.192.140.54
@@ -1711,6 +1712,7 @@
 115.31.167.122
 115.41.78.94
 115.69.214.162
+115.69.217.10
 115.70.186.106
 115.70.208.154
 115.84.178.44
@@ -2667,6 +2669,7 @@
 182.253.121.3
 182.253.123.24
 182.253.130.140
+182.253.139.28
 182.253.141.10
 182.253.141.108
 182.253.142.17
