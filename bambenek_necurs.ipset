@@ -10,15 +10,15 @@
 # Maintainer      : Bambenek Consulting
 # Maintainer URL  : http://osint.bambenekconsulting.com/feeds/
 # List source URL : http://osint.bambenekconsulting.com/feeds/necurs-iplist.txt
-# Source File Date: Sun Jul 30 00:08:46 UTC 2017
+# Source File Date: Sun Jul 30 01:08:19 UTC 2017
 #
 # Category        : malware
-# Version         : 5658
+# Version         : 5659
 #
-# This File Date  : Sun Jul 30 00:28:20 UTC 2017
+# This File Date  : Sun Jul 30 01:16:46 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 18 unique IPs
+# Entries         : 20 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -31,6 +31,8 @@
 #
 169.210.245.70
 170.2.178.164
+171.202.29.226
+172.114.82.167
 175.122.80.37
 175.218.36.2
 249.0.8.92
