@@ -3,14 +3,22 @@
 #
 # ipv4 hash:net ipset
 #
-#  (AO),  (BF),  (BI),  (BJ),  (BW),  (CD),  (CF),  (CG),  
-# (CI),  (CM),  (CV),  (DJ),  (DZ),  (EG),  (ER),  (ET),  
-# (GA),  (GH),  (GM),  (GN),  (GQ),  (GW),  (KE),  (KM),  
-# (LR),  (LS),  (LY),  (MA),  (MG),  (ML),  (MR),  (MU),  
-# (MW),  (MZ),  (NA),  (NE),  (NG),  (RE),  (RW),  (SC),  
-# (SD),  (SL),  (SN),  (SO),  (SS),  (ST),  (SZ),  (TD),  
-# (TG),  (TN),  (TZ),  (UG),  (YT),  (ZA),  (ZM),  (ZW),  -- 
-# [ipip.net] (http://ipip.net)
+# Angola (AO), Burkina Faso (BF), Burundi (BI), Benin (BJ), 
+# Botswana (BW), Congo (CD), Central African Republic (CF), 
+# Republic of the Congo (CG), Ivory Coast (CI), Cameroon 
+# (CM), Cape Verde (CV), Djibouti (DJ), Algeria (DZ), Egypt 
+# (EG), Eritrea (ER), Ethiopia (ET), Gabon (GA), Ghana (GH), 
+# Gambia (GM), Guinea (GN), Equatorial Guinea (GQ), 
+# Guinea-Bissau (GW), Kenya (KE), Comoros (KM), Liberia (LR), 
+# Lesotho (LS), Libya (LY), Morocco (MA), Madagascar (MG), 
+# Mali (ML), Mauritania (MR), Mauritius (MU), Malawi (MW), 
+# Mozambique (MZ), Namibia (NA), Niger (NE), Nigeria (NG), 
+# Réunion (RE), Rwanda (RW), Seychelles (SC), Sudan (SD), 
+# Sierra Leone (SL), Senegal (SN), Somalia (SO), South Sudan 
+# (SS), São Tomé and Príncipe (ST), Swaziland (SZ), Chad 
+# (TD), Togo (TG), Tunisia (TN), Tanzania (TZ), Uganda (UG), 
+# Mayotte (YT), South Africa (ZA), Zambia (ZM), Zimbabwe 
+# (ZW),  -- [ipip.net] (http://ipip.net)
 #
 # Maintainer      : ipip.net
 # Maintainer URL  : http://ipip.net
@@ -18,9 +26,9 @@
 # Source File Date: Fri Jul 28 18:12:47 UTC 2017
 #
 # Category        : geolocation
-# Version         : 1
+# Version         : 2
 #
-# This File Date  : Sat Jul 29 22:32:46 UTC 2017
+# This File Date  : Sat Jul 29 23:56:30 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 4597 subnets, 101178884 unique IPs

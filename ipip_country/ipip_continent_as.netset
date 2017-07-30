@@ -3,12 +3,20 @@
 #
 # ipv4 hash:net ipset
 #
-#  (AE),  (AF),  (AM),  (AZ),  (BD),  (BH),  (BN),  (BT),  
-# (CN),  (CX),  (GE),  (ID),  (IL),  (IN),  (IO),  (IQ),  
-# (IR),  (JO),  (JP),  (KG),  (KH),  (KP),  (KR),  (KW),  
-# (KZ),  (LA),  (LB),  (LK),  (MM),  (MN),  (MV),  (MY),  
-# (NP),  (OM),  (PH),  (PK),  (PS),  (QA),  (SA),  (SG),  
-# (SY),  (TH),  (TJ),  (TM),  (TR),  (UZ),  (VN),  (YE),  -- 
+# United Arab Emirates (AE), Afghanistan (AF), Armenia (AM), 
+# Azerbaijan (AZ), Bangladesh (BD), Bahrain (BH), Brunei 
+# (BN), Bhutan (BT), China (CN), Christmas Island (CX), 
+# Georgia (GE), Indonesia (ID), Israel (IL), India (IN), 
+# British Indian Ocean Territory (IO), Iraq (IQ), Iran (IR), 
+# Hashemite Kingdom of Jordan (JO), Japan (JP), Kyrgyzstan 
+# (KG), Cambodia (KH), North Korea (KP), Republic of Korea 
+# (KR), Kuwait (KW), Kazakhstan (KZ), Laos (LA), Lebanon 
+# (LB), Sri Lanka (LK), Myanmar (Burma) (MM), Mongolia (MN), 
+# Maldives (MV), Malaysia (MY), Nepal (NP), Oman (OM), 
+# Philippines (PH), Pakistan (PK), Palestine (PS), Qatar 
+# (QA), Saudi Arabia (SA), Singapore (SG), Syria (SY), 
+# Thailand (TH), Tajikistan (TJ), Turkmenistan (TM), Turkey 
+# (TR), Uzbekistan (UZ), Vietnam (VN), Yemen (YE),  -- 
 # [ipip.net] (http://ipip.net)
 #
 # Maintainer      : ipip.net
@@ -17,9 +25,9 @@
 # Source File Date: Fri Jul 28 18:12:47 UTC 2017
 #
 # Category        : geolocation
-# Version         : 1
+# Version         : 2
 #
-# This File Date  : Sat Jul 29 22:32:46 UTC 2017
+# This File Date  : Sat Jul 29 23:56:30 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 36945 subnets, 894590112 unique IPs

@@ -3,14 +3,22 @@
 #
 # ipv4 hash:net ipset
 #
-#  (AD),  (AL),  (AT),  (AX),  (BA),  (BE),  (BG),  (BY),  
-# (CH),  (CY),  (CZ),  (DE),  (DK),  (EE),  (ES),  (EU),  
-# (FI),  (FO),  (FR),  (GB),  (GG),  (GI),  (GR),  (HR),  
-# (HU),  (IE),  (IM),  (IS),  (IT),  (JE),  (LI),  (LT),  
-# (LU),  (LV),  (MC),  (MD),  (ME),  (MK),  (MT),  (NL),  
-# (NO),  (PL),  (PT),  (RO),  (RS),  (RU),  (SE),  (SI),  
-# (SK),  (SM),  (UA),  (VA),  (XK),  -- [ipip.net] 
-# (http://ipip.net)
+# Andorra (AD), Albania (AL), Austria (AT),  (AX), Bosnia and 
+# Herzegovina (BA), Belgium (BE), Bulgaria (BG), Belarus 
+# (BY), Switzerland (CH), Cyprus (CY), Czech Republic (CZ), 
+# Germany (DE), Denmark (DK), Estonia (EE), Spain (ES), 
+# European Union (EU), Finland (FI), Faroe Islands (FO), 
+# France (FR), United Kingdom (GB), Guernsey (GG), Gibraltar 
+# (GI), Greece (GR), Croatia (HR), Hungary (HU), Ireland 
+# (IE), Isle of Man (IM), Iceland (IS), Italy (IT), Jersey 
+# (JE), Liechtenstein (LI), Republic of Lithuania (LT), 
+# Luxembourg (LU), Latvia (LV), Monaco (MC), Republic of 
+# Moldova (MD), Montenegro (ME), F.Y.R.O.M. (MK), Malta (MT), 
+# Netherlands (NL), Norway (NO), Poland (PL), Portugal (PT), 
+# Romania (RO), Serbia (RS), Russia (RU), Sweden (SE), 
+# Slovenia (SI), Slovak Republic (SK), San Marino (SM), 
+# Ukraine (UA), Vatican City (VA), Kosovo (XK),  -- 
+# [ipip.net] (http://ipip.net)
 #
 # Maintainer      : ipip.net
 # Maintainer URL  : http://ipip.net
@@ -18,9 +26,9 @@
 # Source File Date: Fri Jul 28 18:12:47 UTC 2017
 #
 # Category        : geolocation
-# Version         : 1
+# Version         : 2
 #
-# This File Date  : Sat Jul 29 22:32:46 UTC 2017
+# This File Date  : Sat Jul 29 23:56:30 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 88218 subnets, 783813944 unique IPs

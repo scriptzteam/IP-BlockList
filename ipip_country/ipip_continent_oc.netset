@@ -3,10 +3,15 @@
 #
 # ipv4 hash:net ipset
 #
-#  (AS),  (AU),  (CK),  (FJ),  (FM),  (GU),  (KI),  (MH),  
-# (MP),  (NC),  (NF),  (NR),  (NU),  (NZ),  (PF),  (PG),  
-# (PW),  (SB),  (TK),  (TL),  (TO),  (TV),  (VU),  (WF),  
-# (WS),  -- [ipip.net] (http://ipip.net)
+# American Samoa (AS), Australia (AU), Cook Islands (CK), 
+# Fiji (FJ), Federated States of Micronesia (FM), Guam (GU), 
+# Kiribati (KI), Marshall Islands (MH), Northern Mariana 
+# Islands (MP), New Caledonia (NC), Norfolk Island (NF), 
+# Nauru (NR), Niue (NU), New Zealand (NZ), French Polynesia 
+# (PF), Papua New Guinea (PG), Palau (PW), Solomon Islands 
+# (SB), Tokelau (TK), East Timor (TL), Tonga (TO), Tuvalu 
+# (TV), Vanuatu (VU), Wallis and Futuna (WF), Samoa (WS),  -- 
+# [ipip.net] (http://ipip.net)
 #
 # Maintainer      : ipip.net
 # Maintainer URL  : http://ipip.net
@@ -14,9 +19,9 @@
 # Source File Date: Fri Jul 28 18:12:47 UTC 2017
 #
 # Category        : geolocation
-# Version         : 1
+# Version         : 2
 #
-# This File Date  : Sat Jul 29 22:32:46 UTC 2017
+# This File Date  : Sat Jul 29 23:56:30 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 8302 subnets, 59705528 unique IPs

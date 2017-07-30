@@ -3,8 +3,10 @@
 #
 # ipv4 hash:net ipset
 #
-#  (AR),  (BO),  (BR),  (CL),  (CO),  (EC),  (FK),  (GF),  
-# (GY),  (PE),  (PY),  (SR),  (UY),  (VE),  -- [ipip.net] 
+# Argentina (AR), Bolivia (BO), Brazil (BR), Chile (CL), 
+# Colombia (CO), Ecuador (EC),  (FK), French Guiana (GF), 
+# Guyana (GY), Peru (PE), Paraguay (PY), Suriname (SR), 
+# Uruguay (UY), Venezuela (VE),  -- [ipip.net] 
 # (http://ipip.net)
 #
 # Maintainer      : ipip.net
@@ -13,9 +15,9 @@
 # Source File Date: Fri Jul 28 18:12:47 UTC 2017
 #
 # Category        : geolocation
-# Version         : 1
+# Version         : 2
 #
-# This File Date  : Sat Jul 29 22:32:46 UTC 2017
+# This File Date  : Sat Jul 29 23:56:30 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
 # Entries         : 6694 subnets, 152726043 unique IPs
