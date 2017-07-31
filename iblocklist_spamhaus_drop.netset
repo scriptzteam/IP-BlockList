@@ -8,15 +8,15 @@
 # Maintainer      : iBlocklist.com
 # Maintainer URL  : https://www.iblocklist.com/
 # List source URL : http://list.iblocklist.com/?list=zbdlwrqkabxbcppvrnos&fileformat=p2p&archiveformat=gz
-# Source File Date: Fri Jul 28 05:01:05 UTC 2017
+# Source File Date: Mon Jul 31 05:00:47 UTC 2017
 #
 # Category        : attacks
-# Version         : 286
+# Version         : 287
 #
-# This File Date  : Fri Jul 28 05:16:27 UTC 2017
+# This File Date  : Mon Jul 31 05:24:51 UTC 2017
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 799 subnets, 24718592 unique IPs
+# Entries         : 797 subnets, 24521984 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -149,8 +149,6 @@
 101.203.128.0/19
 101.248.0.0/15
 101.252.0.0/15
-102.176.0.0/15
-102.181.0.0/16
 103.2.44.0/22
 103.16.76.0/24
 103.23.8.0/22
